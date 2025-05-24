@@ -10,7 +10,7 @@ This project is a **Graph Retrieval-Augmented Generation (GraphRAG) system** for
 
 It does this by building a smart knowledge graph of patients, claims, providers, payers, and more, then using AI to find patients most similar to a new applicant and estimate their eligibility.
 
-![bankcrupcy](https://github.com/shonilbhide/GraphRAG/blob/main/data/Neo4J1.png)
+![bankcrupcy](https://github.com/shonilbhide/GraphRAG/blob/main/data/TheOfficeGIF.gif)
 ---
 
 ## 🚀 Why Was It Built?
