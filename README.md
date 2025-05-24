@@ -1,5 +1,5 @@
 # Patient Eligibility GraphRAG System
-
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ---
 
 ## 🩺 What is This Project?
@@ -21,6 +21,7 @@ It does this by building a smart knowledge graph of patients, claims, providers,
   - **Graphs** show relationships and context.  
   - **AI embeddings** find “similar” patients, even if their details aren’t identical.
 - **Result:** More accurate, explainable, and fair eligibility predictions.
+
 
 ---
 
@@ -162,5 +163,8 @@ python graphrag_retirieve_and_store.py
 For questions, feature requests, or contributions, please open an issue or pull request.
 
 ---
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 *This project shows how AI and knowledge graphs can make healthcare more transparent, efficient, and fair for everyone.*
