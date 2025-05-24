@@ -10,7 +10,7 @@ This project is a **Graph Retrieval-Augmented Generation (GraphRAG) system** for
 
 It does this by building a smart knowledge graph of patients, claims, providers, payers, and more, then using AI to find patients most similar to a new applicant and estimate their eligibility.
 
-![bankcrupcy](.\data\TheOfficeGIF.gif)
+![bankcrupcy](data\Neo4J1.png)
 ---
 
 ## 🚀 Why Was It Built?
@@ -122,7 +122,7 @@ python graphrag_retirieve_and_store.py
 
 ## 🖼️ Visuals
 
-![Knowledge Graph Example](.\data\Neo4J1.png)
+![Knowledge Graph Example](data\Neo4J1.png)
 
 
 ---
